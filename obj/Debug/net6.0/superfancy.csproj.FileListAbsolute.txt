@@ -1,0 +1,15 @@
+C:\Users\consc\Desktop\superfancy\bin\Debug\net6.0\superfancy.exe
+C:\Users\consc\Desktop\superfancy\bin\Debug\net6.0\superfancy.deps.json
+C:\Users\consc\Desktop\superfancy\bin\Debug\net6.0\superfancy.runtimeconfig.json
+C:\Users\consc\Desktop\superfancy\bin\Debug\net6.0\superfancy.dll
+C:\Users\consc\Desktop\superfancy\bin\Debug\net6.0\superfancy.pdb
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\superfancy.csproj.AssemblyReference.cache
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\superfancy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\superfancy.AssemblyInfoInputs.cache
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\superfancy.AssemblyInfo.cs
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\superfancy.csproj.CoreCompileInputs.cache
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\superfancy.dll
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\refint\superfancy.dll
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\superfancy.pdb
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\superfancy.genruntimeconfig.cache
+C:\Users\consc\Desktop\superfancy\obj\Debug\net6.0\ref\superfancy.dll
